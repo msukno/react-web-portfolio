@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-web-portfolio/static/css/main.87ab7653.css",
+    "main.css": "/react-web-portfolio/static/css/main.c9d78f76.css",
     "main.js": "/react-web-portfolio/static/js/main.14f77131.js",
     "static/media/mappingVid.mp4": "/react-web-portfolio/static/media/mappingVid.42c0e2e0a0134faf8712.mp4",
     "static/media/backgroundVid.webm": "/react-web-portfolio/static/media/backgroundVid.6e46a038a87074a6681a.webm",
@@ -13,17 +13,16 @@
     "static/media/mappingImg.png": "/react-web-portfolio/static/media/mappingImg.ab8c105bf7c707e62c70.png",
     "static/media/zavrsni_img.jpg": "/react-web-portfolio/static/media/zavrsni_img.d6883687a17eb08b98de.jpg",
     "static/media/maplogo.png": "/react-web-portfolio/static/media/maplogo.ff9fb66010e4d69d2e46.png",
-    "static/media/darkwall3.jpeg": "/react-web-portfolio/static/media/darkwall3.c4800919f4d6c63241d4.jpeg",
     "static/media/diplomski_img.jpg": "/react-web-portfolio/static/media/diplomski_img.9509e2606c208682cbc7.jpg",
     "static/media/rovImg.jpg": "/react-web-portfolio/static/media/rovImg.1d8b76a48614cba7d0ed.jpg",
     "static/media/logo2.png": "/react-web-portfolio/static/media/logo2.ca52d20f60a5683fe861.png",
     "static/media/projector.png": "/react-web-portfolio/static/media/projector.da92b00d360acdac1b45.png",
     "index.html": "/react-web-portfolio/index.html",
-    "main.87ab7653.css.map": "/react-web-portfolio/static/css/main.87ab7653.css.map",
+    "main.c9d78f76.css.map": "/react-web-portfolio/static/css/main.c9d78f76.css.map",
     "main.14f77131.js.map": "/react-web-portfolio/static/js/main.14f77131.js.map"
   },
   "entrypoints": [
-    "static/css/main.87ab7653.css",
+    "static/css/main.c9d78f76.css",
     "static/js/main.14f77131.js"
   ]
 }
