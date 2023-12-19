@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/react-web-portfolio/static/css/main.c9d78f76.css",
-    "main.js": "/react-web-portfolio/static/js/main.14f77131.js",
+    "main.css": "/react-web-portfolio/static/css/main.4974ff63.css",
+    "main.js": "/react-web-portfolio/static/js/main.0f4ceb67.js",
     "static/media/mappingVid.mp4": "/react-web-portfolio/static/media/mappingVid.42c0e2e0a0134faf8712.mp4",
     "static/media/backgroundVid.webm": "/react-web-portfolio/static/media/backgroundVid.6e46a038a87074a6681a.webm",
-    "static/media/aboutBG(1).jpg": "/react-web-portfolio/static/media/aboutBG(1).57ca84014addbfde9b3d.jpg",
     "static/media/detection.mp4": "/react-web-portfolio/static/media/detection.1917e356e0b5adc81c9e.mp4",
     "static/media/board.jpg": "/react-web-portfolio/static/media/board.b6ad710faf1a13e89c42.jpg",
     "static/media/detimg.png": "/react-web-portfolio/static/media/detimg.d85245b54773ee95ecbb.png",
@@ -18,11 +17,11 @@
     "static/media/logo2.png": "/react-web-portfolio/static/media/logo2.ca52d20f60a5683fe861.png",
     "static/media/projector.png": "/react-web-portfolio/static/media/projector.da92b00d360acdac1b45.png",
     "index.html": "/react-web-portfolio/index.html",
-    "main.c9d78f76.css.map": "/react-web-portfolio/static/css/main.c9d78f76.css.map",
-    "main.14f77131.js.map": "/react-web-portfolio/static/js/main.14f77131.js.map"
+    "main.4974ff63.css.map": "/react-web-portfolio/static/css/main.4974ff63.css.map",
+    "main.0f4ceb67.js.map": "/react-web-portfolio/static/js/main.0f4ceb67.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9d78f76.css",
-    "static/js/main.14f77131.js"
+    "static/css/main.4974ff63.css",
+    "static/js/main.0f4ceb67.js"
   ]
 }
